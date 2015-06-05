@@ -1,0 +1,10 @@
+01_robot_has_position_and_movement.rb
+02_items_have_name_weight.rb
+03_robot_item_interaction.rb
+04_robot_health.rb
+05_robot_can_eat_bolts.rb
+06_weapons.rb
+07_lasers.rb
+08_plasma_cannons.rb
+09_robot_can_equip_and_use_weapons.rb
+10_auto_equip_weapons.rb
